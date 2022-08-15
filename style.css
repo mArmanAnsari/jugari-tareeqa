@@ -1,0 +1,312 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar {
+    position: sticky;
+    top: 0px;
+    z-index: 1;
+    background-color: rgba(240, 240, 235, 0.979) !important;
+}
+
+.master-brand {
+    width: 175px;
+    height: 60px;
+}
+
+.nav-link {
+    font-weight: 600;
+    color: purple !important;
+}
+
+.nav-link:hover {
+    background-color: lightyellow;
+    color: coral !important;
+    border-radius: 30px;
+}
+
+.fa-shopping-cart {
+    font-size: 30px;
+}
+
+.fa-user-circle-o {
+    font-size: 30px;
+}
+
+.remamber {
+    text-align: center;
+    color: purple;
+    margin-top: 40px;
+}
+
+.network {
+    width: 100%;
+    margin-top: 30px;
+}
+
+.year {
+    text-align: center;
+    color: purple;
+    margin-top: 50px;
+}
+
+.contanier {
+    margin-left: 50px;
+    cursor: pointer;
+    margin-top: 60px;
+}
+
+.card-title {
+    font-weight: 600;
+}
+
+del {
+    font-weight: 600;
+
+}
+
+.btn-primary {
+    border: 1px solid blue !important;
+    padding: 7px 70px;
+    margin: 10px auto;
+    border: 10px;
+    background-color: lightslategray;
+    font-weight: 600;
+    color: purple;
+}
+
+.btn-primary:hover {
+    background-color: lightyellow;
+    color: coral;
+    transition: 0;
+}
+
+.chmecial {
+    text-align: center;
+    color: rgb(124, 46, 158);
+    margin-top: 20px;
+    border: 1px solid lavender;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+.physical {
+    margin-top: 70px;
+    margin-left: 60px;
+    width: 1250px;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.biology {
+    margin-left: 60px;
+    width: 1250px;
+    font-weight: 600;
+    font-size: 15px;
+
+}
+
+.large {
+    margin-left: 60px;
+    width: 1250px;
+    font-weight: 600;
+    font-size: 15px;
+}
+
+.apple {
+    min-width: 200px;
+}
+
+.mango {
+    text-align: center;
+    color: purple;
+    margin-top: 20px;
+    border: 1px solid lavender;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+.put {
+    margin-top: 40px;
+    margin-left: 90px;
+}
+
+.out {
+    width: 1170px;
+    min-width: 150px;
+    border-radius: 6px;
+    padding: 7px;
+    border: 1px solid gainsboro;
+}
+
+
+
+.hot {
+    margin-left: 90px;
+    margin-top: 30px;
+}
+
+.slowly {
+    width: 1170px;
+    padding: 8px;
+    border-radius: 8px;
+    border: 1px solid gainsboro;
+
+}
+
+.note {
+    margin-left: 90px;
+    margin-top: 30px;
+}
+
+.english {
+    width: 1170px;
+    padding: 8px;
+    border-radius: 8px;
+    border: 1px solid gainsboro;
+
+}
+
+.size {
+    margin-left: 90px;
+    margin-top: 30px;
+}
+
+.best {
+    width: 1170px;
+    border: 1px solid gainsboro;
+}
+
+.morning {
+    margin-top: 17px;
+    margin-left: 90px;
+    color: purple;
+    border: 1px solid lightgray;
+    background-color: lightgray;
+    padding: 7px 60px 7px;
+    border-radius: 40px;
+}
+
+.morning:hover {
+    background-color: lightyellow;
+    color: purple;
+    border-color: lightyellow;
+}
+
+.style {
+    margin-left: 80px;
+    margin-top: 20px;
+    border: 1px solid lavender;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    max-width: 1170px;
+    min-width: 200px;
+}
+
+.win {
+    width: 550px;
+    margin-top: 20px;
+    margin-left: 80px;
+}
+
+.eight {
+    margin-left: 80px;
+}
+
+.up,
+a {
+    color: purple;
+}
+
+.hp {
+    text-align: center;
+    color: purple;
+    margin-top: 20px;
+    border: 1px solid lavender;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+
+
+.see {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 50px;
+    flex-wrap: wrap;
+    background-color: rgba(250, 250, 235, 0.959);
+}
+
+.ten {
+    margin-top: 10px;
+    vertical-align: middle;
+    border-style: none;
+}
+
+.style-first>h4 {
+    color: purple;
+    margin-top: 20px;
+    margin-left: 38px;
+}
+
+element.style {
+    list-style: none;
+}
+
+a:visited {
+    color: rgb(124, 46, 158);
+}
+
+.fa {
+    margin-top: 4px;
+    display: inline-block;
+    text-rendering: auto;
+    font-size: 27px;
+}
+
+
+.ftrpara1,
+.ftrpara2,
+.ftrpara3,
+.ftrpara4 {
+    margin-top: 0;
+    display: inline-block;
+}
+
+a:link {
+    color: rgb(124, 46, 158);
+}
+.unfollow>h4{
+    color: purple;
+    margin-top: 20px;
+    margin-left: 38px;
+}
+#location{
+    display: inline-block;
+    margin: 5px;
+}
+.copy-right{
+    height: 50px;
+    background-color: rgba(240, 240, 235, 0.979);
+    display: flex;
+    
+    justify-content: start;
+}
+.copy-right>p{
+    color:  rgb(124, 46, 158);
+    margin-left: 30px;
+    margin-top: auto;
+}
+a:visited{
+    color:rgb(124, 46, 158) ;
+}
+.back-toTop>.fa-angle-double-up{
+    position: fixed;
+    top: 92%;
+    left: 92%;
+}
